@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Compliance Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js">
+    
+  </script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { color: #333; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #f4f4f4; }
+    .compliant { color: green; font-weight: bold; }
+    .non-compliant { color: red; font-weight: bold; }
+     #complianceChart {
+    width: 300px;
+    height: 150px;
+    margin-top: 20px;
+  }
+  </style>
+</head>
+<body>
+  <h1>📊 Compliance Dashboard</h1>
+    <div style="width:300px; height:300px; margin: 0 auto">
+  <canvas id="complianceChart" width="400" height="200"></canvas>
+</div>
+  <table>
+    <tr>
+      <th>Product</th>
+      <th>Status</th>
+      <th>Errors</th>
+    </tr>
+    <% report.forEach(r => { %>
+      <tr>
+        <td><%= r.product %></td>
+        <td class="<%= r.isCompliant ? 'compliant' : 'non-compliant' %>">
+          <%= r.isCompliant ? '✅ Compliant' : '❌ Non-Compliant' %>
+        </td>
+        <td><%= r.errors.join(", ") || "-" %></td>
+      </tr>
+    <% }) %>
+  </table>
+
+  <script>
+  // Safely pass EJS data to JS using JSON.stringify
+  const dataFromEJS = <%- JSON.stringify({ compliant, nonCompliant }) %>;
+
+  const compliant = Number(dataFromEJS.compliant || 0);
+  const nonCompliant = Number(dataFromEJS.nonCompliant || 0);
+
+  const ctx = document.getElementById('complianceChart').getContext('2d');
+  new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: ['Compliant', 'Non-Compliant'],
+      datasets: [{
+        data: [compliant, nonCompliant],
+        backgroundColor: ['#4CAF50', '#F44336']
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false
+    }
+  });
+</script>
+
+</body>
+</html>

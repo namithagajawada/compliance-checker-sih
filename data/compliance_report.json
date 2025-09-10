@@ -1,0 +1,121 @@
+[
+  {
+    "product": "Dove Intense Repair Shampoo, 650ml",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Pantene Advanced Hair Fall Solution Shampoo, 340ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Head & Shoulders Anti Dandruff Shampoo, 180ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Dove Intense Repair Shampoo, 650ml",
+    "errors": [
+      "❌ Missing manufacturer details"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Pantene Advanced Hair Fall Solution Shampoo, 340ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Head & Shoulders Anti Dandruff Shampoo, 180ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "L’Oréal Paris Total Repair 5 Shampoo, 1L",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Himalaya Anti-Hair Fall Shampoo, 700ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "WOW Skin Science Apple Cider Vinegar Shampoo, 300ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Mamaearth Onion Hair Shampoo, 400ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Tresemme Keratin Smooth Shampoo, 580ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Clinic Plus Strong & Long Shampoo, 650ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Patanjali Kesh Kanti Natural Shampoo, 200ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Biotique Bio Kelp Protein Shampoo, 340ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Khadi Natural Herbal Shampoo, 210ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Indulekha Bringha Shampoo, 580ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Herbal Essences Argan Oil Shampoo, 400ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Rejoice Rich Soft Smooth Shampoo, 650ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Park Avenue Beer Shampoo, 350ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Joy Skin Fruits Gentle Care Shampoo, 400ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Ayush Anti-Dandruff Neem Shampoo, 340ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Forest Essentials Hair Cleanser Bhringraj & Shikakai, 200ml",
+    "errors": [],
+    "isCompliant": true
+  },
+  {
+    "product": "Kama Ayurveda Himalayan Deodar Shampoo, 200ml",
+    "errors": [],
+    "isCompliant": true
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Dove Intense Repair Shampoo, 650ml",
+    "price": "₹399",
+    "mrp": "₹499",
+    "rating": "4.3",
+    "seller": "Hindustan Unilever",
+    "net_quantity": "650ml",
+    "country_of_origin": "",
+    "manufacturer": "Hindustan Unilever Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ123"
+  },
+  {
+    "title": "Pantene Advanced Hair Fall Solution Shampoo, 340ml",
+    "price": "₹275",
+    "mrp": "₹299",
+    "rating": "4.1",
+    "seller": "Procter & Gamble",
+    "net_quantity": "340ml",
+    "country_of_origin": "India",
+    "manufacturer": "Procter & Gamble Hygiene and Health Care",
+    "link": "https://www.amazon.in/dp/B09XYZ456"
+  },
+  {
+    "title": "Head & Shoulders Anti Dandruff Shampoo, 180ml",
+    "price": "₹149",
+    "mrp": "₹160",
+    "rating": "4.2",
+    "seller": "Procter & Gamble",
+    "net_quantity": "180ml",
+    "country_of_origin": "India",
+    "manufacturer": "Procter & Gamble Hygiene and Health Care",
+    "link": "https://www.amazon.in/dp/B07XYZ789"
+  },
+  {
+    "title": "Dove Intense Repair Shampoo, 650ml",
+    "price": "₹399",
+    "mrp": "₹499",
+    "rating": "4.3",
+    "seller": "Hindustan Unilever",
+    "net_quantity": "650ml",
+    "country_of_origin": "India",
+    "manufacturer": "",
+    "link": "https://www.amazon.in/dp/B08XYZ123"
+  },
+  {
+    "title": "Pantene Advanced Hair Fall Solution Shampoo, 340ml",
+    "price": "₹275",
+    "mrp": "₹299",
+    "rating": "4.1",
+    "seller": "Procter & Gamble",
+    "net_quantity": "340ml",
+    "country_of_origin": "India",
+    "manufacturer": "Procter & Gamble Hygiene and Health Care",
+    "link": "https://www.amazon.in/dp/B09XYZ456"
+  },
+  {
+    "title": "Head & Shoulders Anti Dandruff Shampoo, 180ml",
+    "price": "₹149",
+    "mrp": "₹160",
+    "rating": "4.2",
+    "seller": "Procter & Gamble",
+    "net_quantity": "180ml",
+    "country_of_origin": "India",
+    "manufacturer": "Procter & Gamble Hygiene and Health Care",
+    "link": "https://www.amazon.in/dp/B07XYZ789"
+  },
+  {
+    "title": "L’Oréal Paris Total Repair 5 Shampoo, 1L",
+    "price": "₹749",
+    "mrp": "₹799",
+    "rating": "4.4",
+    "seller": "L’Oréal India Pvt. Ltd.",
+    "net_quantity": "1L",
+    "country_of_origin": "India",
+    "manufacturer": "L’Oréal India Pvt. Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ101"
+  },
+  {
+    "title": "Himalaya Anti-Hair Fall Shampoo, 700ml",
+    "price": "₹360",
+    "mrp": "₹399",
+    "rating": "4.0",
+    "seller": "Himalaya Wellness",
+    "net_quantity": "700ml",
+    "country_of_origin": "India",
+    "manufacturer": "Himalaya Drug Company",
+    "link": "https://www.amazon.in/dp/B08XYZ102"
+  },
+  {
+    "title": "WOW Skin Science Apple Cider Vinegar Shampoo, 300ml",
+    "price": "₹499",
+    "mrp": "₹499",
+    "rating": "4.2",
+    "seller": "Kapco International",
+    "net_quantity": "300ml",
+    "country_of_origin": "India",
+    "manufacturer": "Kapco International Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ103"
+  },
+  {
+    "title": "Mamaearth Onion Hair Shampoo, 400ml",
+    "price": "₹349",
+    "mrp": "₹399",
+    "rating": "4.3",
+    "seller": "Honasa Consumer Pvt Ltd",
+    "net_quantity": "400ml",
+    "country_of_origin": "India",
+    "manufacturer": "Honasa Consumer Pvt Ltd",
+    "link": "https://www.amazon.in/dp/B08XYZ104"
+  },
+  {
+    "title": "Tresemme Keratin Smooth Shampoo, 580ml",
+    "price": "₹499",
+    "mrp": "₹560",
+    "rating": "4.2",
+    "seller": "Unilever",
+    "net_quantity": "580ml",
+    "country_of_origin": "India",
+    "manufacturer": "Hindustan Unilever Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ105"
+  },
+  {
+    "title": "Clinic Plus Strong & Long Shampoo, 650ml",
+    "price": "₹330",
+    "mrp": "₹360",
+    "rating": "4.1",
+    "seller": "Hindustan Unilever",
+    "net_quantity": "650ml",
+    "country_of_origin": "India",
+    "manufacturer": "Hindustan Unilever Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ106"
+  },
+  {
+    "title": "Patanjali Kesh Kanti Natural Shampoo, 200ml",
+    "price": "₹95",
+    "mrp": "₹100",
+    "rating": "3.9",
+    "seller": "Patanjali Ayurved",
+    "net_quantity": "200ml",
+    "country_of_origin": "India",
+    "manufacturer": "Patanjali Ayurved Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ107"
+  },
+  {
+    "title": "Biotique Bio Kelp Protein Shampoo, 340ml",
+    "price": "₹165",
+    "mrp": "₹180",
+    "rating": "4.0",
+    "seller": "Biotique",
+    "net_quantity": "340ml",
+    "country_of_origin": "India",
+    "manufacturer": "Bio Veda Action Research Company",
+    "link": "https://www.amazon.in/dp/B08XYZ108"
+  },
+  {
+    "title": "Khadi Natural Herbal Shampoo, 210ml",
+    "price": "₹125",
+    "mrp": "₹140",
+    "rating": "4.1",
+    "seller": "Khadi Essentials",
+    "net_quantity": "210ml",
+    "country_of_origin": "India",
+    "manufacturer": "Khadi Essentials",
+    "link": "https://www.amazon.in/dp/B08XYZ109"
+  },
+  {
+    "title": "Indulekha Bringha Shampoo, 580ml",
+    "price": "₹590",
+    "mrp": "₹650",
+    "rating": "4.2",
+    "seller": "Indulekha",
+    "net_quantity": "580ml",
+    "country_of_origin": "India",
+    "manufacturer": "Mosons Extraction Pvt Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ110"
+  },
+  {
+    "title": "Herbal Essences Argan Oil Shampoo, 400ml",
+    "price": "₹450",
+    "mrp": "₹480",
+    "rating": "4.3",
+    "seller": "Herbal Essences",
+    "net_quantity": "400ml",
+    "country_of_origin": "Thailand",
+    "manufacturer": "Procter & Gamble",
+    "link": "https://www.amazon.in/dp/B08XYZ111"
+  },
+  {
+    "title": "Rejoice Rich Soft Smooth Shampoo, 650ml",
+    "price": "₹299",
+    "mrp": "₹350",
+    "rating": "3.8",
+    "seller": "Procter & Gamble",
+    "net_quantity": "650ml",
+    "country_of_origin": "Vietnam",
+    "manufacturer": "P&G Vietnam",
+    "link": "https://www.amazon.in/dp/B08XYZ112"
+  },
+  {
+    "title": "Park Avenue Beer Shampoo, 350ml",
+    "price": "₹260",
+    "mrp": "₹299",
+    "rating": "4.1",
+    "seller": "JK Helene Curtis",
+    "net_quantity": "350ml",
+    "country_of_origin": "India",
+    "manufacturer": "JK Helene Curtis Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ113"
+  },
+  {
+    "title": "Joy Skin Fruits Gentle Care Shampoo, 400ml",
+    "price": "₹180",
+    "mrp": "₹199",
+    "rating": "3.7",
+    "seller": "Joy Personal Care",
+    "net_quantity": "400ml",
+    "country_of_origin": "India",
+    "manufacturer": "RSH Global Pvt. Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ114"
+  },
+  {
+    "title": "Ayush Anti-Dandruff Neem Shampoo, 340ml",
+    "price": "₹165",
+    "mrp": "₹180",
+    "rating": "4.0",
+    "seller": "Hindustan Unilever",
+    "net_quantity": "340ml",
+    "country_of_origin": "India",
+    "manufacturer": "Hindustan Unilever Ltd.",
+    "link": "https://www.amazon.in/dp/B08XYZ115"
+  },
+  {
+    "title": "Forest Essentials Hair Cleanser Bhringraj & Shikakai, 200ml",
+    "price": "₹1250",
+    "mrp": "₹1250",
+    "rating": "4.5",
+    "seller": "Forest Essentials",
+    "net_quantity": "200ml",
+    "country_of_origin": "India",
+    "manufacturer": "Forest Essentials",
+    "link": "https://www.amazon.in/dp/B08XYZ116"
+  },
+  {
+    "title": "Kama Ayurveda Himalayan Deodar Shampoo, 200ml",
+    "price": "₹1495",
+    "mrp": "₹1495",
+    "rating": "4.6",
+    "seller": "Kama Ayurveda",
+    "net_quantity": "200ml",
+    "country_of_origin": "India",
+    "manufacturer": "Kama Ayurveda",
+    "link": "https://www.amazon.in/dp/B08XYZ117"
+  }
+]
+
