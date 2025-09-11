@@ -1,0 +1,6 @@
+{
+    "timestamp": "2025-09-11T23:03:28.824495",
+    "product": {
+        "raw_response": "```json\n{\n  \"net_quantity\": null,\n  \"manufacturer_packer_importer\": \"Bharani Industries\\nZ-3 Shaheen Apartments, 132\\nMod Street, Fort, Mumbai, 400001\\nMAHARASHTRA, India\",\n  \"common_name\": \"Prompt-me NEON STICKY NOTE PAD\",\n  \"manufacture_month_year\": \"June 2009\",\n  \"expiry_date\": null,\n  \"mrp\": \"70\",\n  \"consumer_care_contact\": \"9930100061\",\n  \"dimensions_sizes\": null,\n  \"principal_display_panel\": null\n}\n```"
+    }
+},
