@@ -117,5 +117,212 @@
     "product": "Kama Ayurveda Himalayan Deodar Shampoo, 200ml",
     "errors": [],
     "isCompliant": true
+  },
+  {
+    "product": "Soya Chunks",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "classic nut cracker",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Pro Immunity Multi-source Edible Oil",
+    "errors": [
+      "❌ Price (223) is greater than MRP (211)",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "de la Luna",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing manufacturer details",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Coconad Edible Coconut Oil",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Gluten Free Chocolate Chunk Edible Cookie Dough",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "freedom kachi ghani mustard oil",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Bunge, Clear Liquid Soybean Frying Oil",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "sesame edible cooking oil",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Vegetable Oil Spread",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Original buttery spread, original",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Margarine",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Butter!",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "WESSON Vegetable Oil 1 GAL",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Chocolate chunk edible cookie dough",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing manufacturer details",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Edible Birthday Cake cookie dough",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing manufacturer details",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Parachute Pure Edible Coconut Oil",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Earthly Body Hemp edible massage oil",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing manufacturer details",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Tasty+",
+    "errors": [
+      "❌ Invalid net quantity format (use ml, g, kg, L, pcs)",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Refine Edible Sunflower Cooking Oil",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Sundrop Heart blnd edbl oil 1ltr",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Saffola Gold",
+    "errors": [
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Edible Mustard Oil",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "Augason Farms, Instant Pasta Alfredo",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
+  },
+  {
+    "product": "current hot lemon",
+    "errors": [
+      "❌ Missing net quantity",
+      "❌ Missing manufacturer details",
+      "❌ Missing country of origin"
+    ],
+    "isCompliant": false
   }
 ]

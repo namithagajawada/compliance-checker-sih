@@ -1,45 +1,5 @@
-// import { chromium } from "playwright";
-// import { saveJSON, cleanText } from "./helpers.js";
-
-// async function scrapeAmazon(searchQuery) {
-//   const browser = await chromium.launch({ headless: true });
-//   const page = await browser.newPage();
-
-//   console.log(`🔍 Searching Amazon for "${searchQuery}"...`);
-//   await page.goto("https://www.amazon.in");
-  
-//   // Enter search query
-//   await page.fill("input#twotabsearchtextbox", searchQuery);
-//   await page.click("input#nav-search-submit-button");
-//   await page.waitForTimeout(3000);
-
-//   const products = await page.$$eval("div.s-main-slot div[data-asin]", (items) =>
-//     items.map((item) => {
-//       const title = item.querySelector("h2 a span")?.innerText || "";
-//       const price = item.querySelector(".a-price span.a-offscreen")?.innerText || "";
-//       const link = item.querySelector("h2 a")?.href || "";
-//       const rating = item.querySelector("span.a-icon-alt")?.innerText || "";
-//       const seller = item.querySelector(".a-row.a-size-base.a-color-secondary")?.innerText || "";
-//       return { title, price, rating, seller, link };
-//     })
-//   );
-
-//   await browser.close();
-
-//   const cleaned = products.map(p => ({
-//     title: cleanText(p.title),
-//     price: cleanText(p.price),
-//     rating: cleanText(p.rating),
-//     seller: cleanText(p.seller),
-//     link: p.link
-//   }));
-
-//   saveJSON("amazon_products.json", cleaned);
-//   console.log(`✅ Saved ${cleaned.length} Amazon products to amazon_products.json`);
-// }
-
-// scrapeAmazon("shampoo"); // change query as needed
-
+//Non useful file right now
+//serves the process of scraping data from amazon and save in data/amazon_products.json
 import { chromium } from "playwright";
 import fs from "fs";
 

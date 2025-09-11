@@ -1,3 +1,4 @@
+//Run this file to view dashboard on localhost
 import express from "express";
 import fs from "fs";
 import path from "path";
@@ -14,7 +15,7 @@ app.use(express.static("public"));
 
 // Route: Dashboard
 app.get("/", (req, res) => {
-  const report = JSON.parse(fs.readFileSync("data/compliance_report.json", "utf-8"));
+  const report = JSON.parse(fs.readFileSync("data/compliance_report.json", "utf-8"));//taken data from compliance_report.json
   const compliant = report.filter(r => r.isCompliant).length;
   const nonCompliant = report.filter(r => !r.isCompliant).length;
 
