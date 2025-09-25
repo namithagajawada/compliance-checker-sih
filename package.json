@@ -1,6 +1,7 @@
 {
   "name": "compliance-checker",
   "version": "1.0.0",
+  "type" : "module",
   "dependencies": {
     "chart.js": "^4.5.0",
     "ejs": "^3.1.10",
